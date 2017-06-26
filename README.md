@@ -1,6 +1,6 @@
 # vue-todo
 
-> A Vue.js project
+> A Todo list web app build with Vue.js 2.x
 
 ## Build Setup
 
@@ -27,4 +27,5 @@ npm run e2e
 npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+this is a vue demo case based on the article: https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2#toc-deleting-a-todo
+
